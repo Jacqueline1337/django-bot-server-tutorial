@@ -27,7 +27,7 @@ body {
     padding-top: 15px;
 
 }
-.bot-icon{  
+.bot-icon{
     height:40px;
 }
 
@@ -60,7 +60,7 @@ body {
 }
 .message-text{
     font-size: 14px;
-    font-family:'Myriad Pro';
+    font-family:'poiret one';
     overflow-wrap: break-word;
   word-wrap: break-word;
   -ms-word-break: break-all;
@@ -73,7 +73,7 @@ body {
     padding-left: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
-    background-color:#FFFFFF;
+    background-color:#FFA69E;
     height:auto;
     width:100%;
     margin-left:0px;
@@ -88,6 +88,7 @@ body {
     left:0;
     top:40px;
     overflow-y:auto;
+    background-color:#EDF5FA;
 }
 #sub-body-container{
     max-width: 50em;
@@ -104,7 +105,7 @@ body {
 }
 #messageToSend {
     font-size: 14px;
-    color:#000000;
+    color:#FFFF;
     border: 0px;
     min-height:22px;
     max-height: 62px;
@@ -127,7 +128,7 @@ body {
 
 #messageSendButton {
 
-    background-color:#FFFFFF;
+    background-color:#FFA69E;
     color:none;
     border: 0px;
     padding :0px;
@@ -141,10 +142,11 @@ font-size: 10px;
     margin-top: -20px;
     margin-bottom: 10px;
     padding-left: 10px;
-    color: #aaa;
+    color: #EEE;
 }
 .bot-msg-body{
-        background: #eee;
+        background: #ED7A82;
     border-radius: 5px;
 }
+
 
