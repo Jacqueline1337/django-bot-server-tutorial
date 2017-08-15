@@ -24,7 +24,7 @@ SECRET_KEY = 'r^3o#=8lu#*y66k7!a_4^82a#0n)kau%5!y2)!oxs40@tn@22-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ["127.0.0.1"]
 
 
 # Application definition
@@ -132,3 +132,4 @@ CHANNEL_LAYERS = {
         "ROUTING": "chatbot_tutorial.routing.channel_routing",
     },
 }
+
